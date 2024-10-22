@@ -1,0 +1,107 @@
+respondent_id,respondent_role,respondent_type 
+1,Agent,Individual
+2,Attorney,Individual
+3,Claimant / Insured,Individual
+4,Claimant Representative,Individual
+5,Claims Adjuster,Individual
+6,Continuing Care Retiremt Comm,Individual
+7,Continuing Education Provider,Individual
+8,DWC HCP Designated Doctor,Individual
+9,DWC HCP Facility,Individual
+10,DWC HCP Referral HCP,Individual
+11,DWC HCP Rme HCP,Individual
+12,DWC HCP Treating HCP,Individual
+13,DWC Pharmacy Process Agnt,Individual
+14,Employer,Individual
+15,Escrow Officer,Individual
+16,Exclusive Provider Org,Individual
+17,Financial Institution,Individual
+18,FM Extinguisher Licensee,Individual
+19,FM Unregistered Company,Individual
+20,Govermental Entity,Individual
+21,Group Insurance Association,Individual
+22,Health Maintenance Org,Individual
+23,Hospital / Doctor / Dentist,Individual
+24,Independent Review Org (Iro),Individual
+25,Injured Employee,Individual
+26,Ins Co - Licensed/Active,Individual
+27,Ins Co - Licensed/Receivership,Individual
+28,Ins Co - Surplus Lines,Individual
+29,Insurance Agency,Individual
+30,Insurance Consultant,Individual
+31,Life Settlement Company/Broker,Individual
+32,MEWA,Individual
+33,Mortgage Lender,Individual
+34,No Entity Complained Against,Individual
+35,Other,Individual
+36,Out-Of-Ntwk Anesthesiologist,Individual
+37,Premium Finance,Individual
+38,Producer,Individual
+39,Provider,Individual
+40,Provider Contracting Entity,Individual
+41,Public Insurance Adjuster,Individual
+42,Self-Funded / Erisa,Individual
+43,Single Service Hmo,Individual
+44,TDI,Individual
+45,Texas Fair Insurance Plan,Individual
+46,Third Party Administrators,Individual
+47,TWIA,Individual
+48,U.S. Domiciled Insurer,Individual
+49,Unauthorized Activity,Individual
+50,Utilization Review Agent,Individual
+51,Viatical Settlement Com/Broker,Individual
+52,WC Healthcare Provider Ntwk,Individual
+53,None ,Individual
+54,Agent,Organization
+55,Attorney,Organization
+56,Claimant / Insured,Organization
+57,Claimant Representative,Organization
+58,Claims Adjuster,Organization
+59,Continuing Care Retiremt Comm,Organization
+60,Continuing Education Provider,Organization
+61,DWC HCP Designated Doctor,Organization
+62,DWC HCP Facility,Organization
+63,DWC HCP Referral HCP,Organization
+64,DWC HCP Rme HCP,Organization
+65,DWC HCP Treating HCP,Organization
+66,DWC Pharmacy Process Agnt,Organization
+67,Employer,Organization
+68,Escrow Officer,Organization
+69,Exclusive Provider Org,Organization
+70,Financial Institution,Organization
+71,FM Extinguisher Licensee,Organization
+72,FM Unregistered Company,Organization
+73,Govermental Entity,Organization
+74,Group Insurance Association,Organization
+75,Health Maintenance Org,Organization
+76,Hospital / Doctor / Dentist,Organization
+77,Independent Review Org (Iro),Organization
+78,Injured Employee,Organization
+79,Ins Co - Licensed/Active,Organization
+80,Ins Co - Licensed/Receivership,Organization
+81,Ins Co - Surplus Lines,Organization
+82,Insurance Agency,Organization
+83,Insurance Consultant,Organization
+84,Life Settlement Company/Broker,Organization
+85,MEWA,Organization
+86,Mortgage Lender,Organization
+87,No Entity Complained Against,Organization
+88,Other,Organization
+89,Out-Of-Ntwk Anesthesiologist,Organization
+90,Premium Finance,Organization
+91,Producer,Organization
+92,Provider,Organization
+93,Provider Contracting Entity,Organization
+94,Public Insurance Adjuster,Organization
+95,Self-Funded / Erisa,Organization
+96,Single Service Hmo,Organization
+97,TDI,Organization
+98,Texas Fair Insurance Plan,Organization
+99,Third Party Administrators,Organization
+100,TWIA,Organization
+101,U.S. Domiciled Insurer,Organization
+102,Unauthorized Activity,Organization
+103,Utilization Review Agent,Organization
+104,Viatical Settlement Com/Broker,Organization
+105,WC Healthcare Provider Ntwk,Organization
+106,None ,Organization

@@ -1,0 +1,71 @@
+complainant_id,complainant_relation,complainant_type 
+1,Agent,IND
+2,Attorney ,IND
+3,Beneficiary,IND
+4,Consumer_non_insured,IND
+5,Contracted Provider,IND
+6,DWC Austin,IND
+7,DWC Qual Rev Complaint,IND
+8,DWC Qual Rev Complaint,IND
+9,DWC El Paso,IND
+10,DWC Off Of Inj Emply Coun,IND
+11,DWC San Antonio,IND
+12,DWC Appeals Panel,IND
+13,Employer,IND
+14,FM AHJ,IND
+15,GR Other Government Office,IND
+16,Group Policyholder,IND
+17,Hospital,IND
+18,Injured Employee,IND
+19,Insurance Company,IND
+20,Insured,IND
+21,Lienholder,IND
+22,Military Personnel,IND
+23,Non-Contracted Provider,IND
+24,Non-insured,IND
+25,Other,IND
+26,Person on behalf of patient,IND
+27,Physician,IND
+28,Provider,IND
+29,Relative,IND
+30,Senior Citizen,IND
+31,TDI,IND
+32,Teacher Retirement Syst (TRS),IND
+33,Third Party,IND
+34,Third Party Billing Service,IND
+35,None ,IND
+36,Agent,ORG
+37,Attorney ,ORG
+38,Beneficiary,ORG
+39,Consumer_non_insured,ORG
+40,Contracted Provider,ORG
+41,DWC Austin,ORG
+42,DWC Qual Rev Complaint,ORG
+43,DWC Qual Rev Complaint,ORG
+44,DWC El Paso,ORG
+45,DWC Off Of Inj Emply Coun,ORG
+46,DWC San Antonio,ORG
+47,DWC Appeals Panel,ORG
+48,Employer,ORG
+49,FM AHJ,ORG
+50,GR Other Government Office,ORG
+51,Group Policyholder,ORG
+52,Hospital,ORG
+53,Injured Employee,ORG
+54,Insurance Company,ORG
+55,Insured,ORG
+56,Lienholder,ORG
+57,Military Personnel,ORG
+58,Non-Contracted Provider,ORG
+59,Non-insured,ORG
+60,Other,ORG
+61,Person on behalf of patient,ORG
+62,Physician,ORG
+63,Provider,ORG
+64,Relative,ORG
+65,Senior Citizen,ORG
+66,TDI,ORG
+67,Teacher Retirement Syst (TRS),ORG
+68,Third Party,ORG
+69,Third Party Billing Service,ORG
+70,None,ORG

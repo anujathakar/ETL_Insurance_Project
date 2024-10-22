@@ -1,0 +1,72 @@
+coverage_id ,coverage_type 
+1,Accident and Health;Credit Disability
+2,Accident and Health;Discount Health Care Program
+3,Accident and Health;Federal High Risk Pool 
+4,Accident and Health;Group A&H
+5,Accident and Health;High Deductible Hlth Ben Plan
+6,Accident and Health;Individual A & H
+7,Accident and Health;XX-State Specific
+8,Automobile;Business Automobile
+9,Automobile;Individual Private Pass
+10,Automobile;Mobile Owners
+11,Automobile;Motorcycle
+12,Automobile;Motorhome/Recreational Veh
+13,Automobile;Truckers Policy
+14,Automobile;XX-Commercial
+15,Automobile;XX-Private Passenger Group
+16,Automobile;XX-State Specific
+17,"Fire, Allied Lines & CMP;Business Owners"
+18,"Fire, Allied Lines & CMP;Commercial Fire & Allied Lines"
+19,"Fire, Allied Lines & CMP;Single Interest (Property)"
+20,"Fire, Allied Lines & CMP;XX-Builder's Risk"
+21,"Fire, Allied Lines & CMP;XX-Commercial Multi-Peril"
+22,"Fire, Allied Lines & CMP;XX-Dwelling Fire"
+23,Homeowners;Condominium
+24,Homeowners;Farmowner / Ranchowner
+25,Homeowners;Homeowners
+26,Homeowners;Homeowners Group
+27,Homeowners;Mobile Homeowner
+28,Homeowners;Rental
+29,Liability;Directors & Officers
+30,Liability;General Liability
+31,Liability;Misc Professional Liability
+32,Liability;Products Liability
+33,Liability;Professional / E & O
+34,Liability;Umbrella
+35,Liability;XX-General
+36,Life & Annuity;Accelerated Benefits
+37,Life & Annuity;Credit Life
+38,Life & Annuity;Group Annuities
+39,Life & Annuity;Group Life
+40,Life & Annuity;Individual Annuities
+41,Life & Annuity;Individual Life
+42,Life & Annuity;IRA 
+43,Life & Annuity;Pre-Paid Funeral Plan
+44,Life & Annuity;XX-State Specific
+45,Miscellaneous;Aircraft
+46,Miscellaneous;Bail Bonds
+47,Miscellaneous;Boiler Machinery
+48,Miscellaneous;Business Interruption
+49,Miscellaneous;Federal Crop
+50,Miscellaneous;Federal Flood
+51,Miscellaneous;Federal Programs
+52,Miscellaneous;Fidelity & Surety
+53,Miscellaneous;Homeowner Warranty
+54,Miscellaneous;In Home/Incidental Business
+55,Miscellaneous;Inland Marine
+56,Miscellaneous;Mortgage Guaranty
+57,Miscellaneous;No Line Specified
+58,Miscellaneous;Ocean Marine
+59,Miscellaneous;P & C Misc
+60,Miscellaneous;Pet Insurance
+61,Miscellaneous;Prepaid Legal Service
+62,Miscellaneous;Private Mortgage
+63,Miscellaneous;Surplus Lines
+64,Miscellaneous;Title Insurance
+65,Miscellaneous;Travel
+66,Miscellaneous;Warranty Contract
+67,Miscellaneous;Watercraft
+68,Miscellaneous;WC Non-Insured
+69,Miscellaneous;Workers' Compensation
+70,Miscellaneous;Workers' Compensation Ntwk
+71,None
